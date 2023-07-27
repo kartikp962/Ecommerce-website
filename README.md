@@ -1,4 +1,4 @@
-## E_Commerce
+## E-Commerce
 
-this website is fully responsive , and very awesome project using HTML,CSS,JS
+This website is fully responsive , and very awesome project using HTML,CSS,JS
 
